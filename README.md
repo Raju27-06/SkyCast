@@ -33,7 +33,7 @@ It allows users to search for any city and view **real-time weather details**, *
 
 ## 📷 Preview  
 ![image alt](https://github.com/Raju27-06/SkyCast/blob/8596e6bbb1b0af8cce6f5ece87ece96b3258c74d/Screenshot%20from%202025-09-13%2011-40-59.png)
-
+![image alt](https://github.com/Raju27-06/SkyCast/blob/d6949688454f257381f40bf2084c6ac50cdffbc1/Screenshot%20from%202025-09-13%2011-41-14.png)
 ---
 
 ## 🏃‍♂️ Getting Started  
