@@ -110,7 +110,7 @@ export default function WeatherInfo() {
 
   function handleSearch() {
     if (searchQuery.trim() !== "") {
-      getWeatherData(searchQuery);
+      getWeatherData(searchQuery.trim());
     }
   }
 
